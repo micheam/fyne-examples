@@ -4,8 +4,8 @@
 写経+α をやって行った時のソースコード
 
 - [Introduction](./introduction)
-- Basics
-- Canvas
+- [Basics](./basics)
+- [Canvas](./canvas)
 - Layout
 - Container
 - Widget
