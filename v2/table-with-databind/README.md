@@ -1,4 +1,4 @@
-# table
+# data binding table
 
 How to use widget.Table with data binding.
 
