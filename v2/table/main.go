@@ -18,7 +18,7 @@ type account struct {
 }
 
 var (
-	windowSize = fyne.NewSize(600, 150)
+	windowSize = fyne.NewSize(600, 300)
 
 	headers  = []string{"id", "name", "phone", "birthday"}
 	accounts = []account{
